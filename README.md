@@ -22,12 +22,16 @@ Página inicial:
 Deverá conter o nome do usuário e o seu tipo de usuário (essas informações deverão aparecer em todas as ooutras páginas), também as informações do seu sistema, uma breve explicação de como ele funciona e como deve ser operado.
 
 Demais páginas:
+
 Pagina de cadastro de usuário.
 - Nome usuario, endereço completo, tipo de usuario.
+  
 Pagina de cadastro de equipamentos.
 - Nome equipamento, descrição, valor pago e categoria.
+  
 Vinculo do produto:
 - Vincular o produto a qual setor será utilizado e ao usuário que irá ficar responável.
+- 
 Criar um ou mais arquivos para a(s) classe(s)
 -nelas deveram conter as funções do seu projeto.
 
